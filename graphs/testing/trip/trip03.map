@@ -1,0 +1,36 @@
+L Berkeley -6736.99 2613.16
+L C1 -6737.24 2613.16
+L C2 -6737.14 2611.94
+L C3a -6738.61 2611.34
+L C3 -6738.35 2610.08
+L San_Francisco -6744.56 2606.13
+L C4 -6726 2581.16
+L C4a -6725.18 2575.95
+L C4b -6719.74 2570.59
+L Santa_Cruz -6723.68 2551.99
+L C6 -6723.4 2552.21
+
+
+R Berkeley University_Ave 0.3196 EW C1
+R C1 Martin_Luther_King_Jr_Way 1.6680 NS C2
+R Berkeley Berkeley-C2 3.0000 EW C2
+R C2 Ashby_Ave 2.6550 EW C3a
+R C3a C3a-C3 1.5255 EW C3
+R C3 C3-SF 7.8314 EW San_Francisco
+R San_Francisco US-101 32.7900 NS C4
+R C4 CA-85 5.5036 NS C4a
+R C4a CA-85 7.8842 NS C4b
+R C4b CA-17 18.9901 NS C6
+R Santa_Cruz CA-1 0.3887 SN C6
+R C1 C1-C3a 15.0000 EW C3a
+R C2 C2-C3 10.0000 EW C3
+R C3a C3-Berkeley 33.0000 EW Berkeley
+R C3a C3a-SF 1.0000 EW San_Francisco
+R San_Francisco SF-C4 1.2000 EW C4
+R C4a C4a-C2 0.1300 EW C2
+R C4a C4a-C2 1.6000 EW C2
+R C4b AAAAA 5.0000 EW Santa_Cruz
+R Santa_Cruz AAAAA2 2.0000 WE C4
+R Santa_Cruz ShortCut 3.5000 WE C3
+R C4a I-pickme 4.0000 EW San_Francisco
+

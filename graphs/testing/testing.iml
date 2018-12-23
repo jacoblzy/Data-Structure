@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="Python" name="Python">
+      <configuration sdkName="Python 3.6 (venv)" />
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/graph-classes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/make-classes" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/trip-classes" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="proj3" />
+    <orderEntry type="library" name="Python 3.6 (venv) interpreter library" level="application" />
+  </component>
+</module>
